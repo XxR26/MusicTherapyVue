@@ -70,7 +70,7 @@ cd backend
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
-venv\Scriptsctivate     # Windows
+venv\Scripts\activate     # Windows
 ```
 
 3. Install dependencies:
@@ -136,5 +136,3 @@ The core implementation of the music recommendation engine is in the `src/utils/
 3. The AI will analyze your emotional state and respond
 4. Based on your emotion, the system will automatically recommend and play suitable music
 5. You can control music playback through the music player
-
-
