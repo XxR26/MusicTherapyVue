@@ -32,14 +32,8 @@ dist-ssr/
 .DS_Store
 Thumbs.db
 
-# Music files
-frontend/public/music/
-frontend/vite-project/public/music/
-
 # Large files
-*.mp3
-*.mp4
-*.wav
+# Note: Music files are now included in the repository
 *.png
 *.jpg
 *.jpeg
